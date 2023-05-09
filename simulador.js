@@ -83,7 +83,7 @@ function ValidarSeleccionProducto() {
             precioProductoSeleccionado = precioProducto5
             break;    
         default:
-            console.log("Opción incorrecta. Seleccione una oopción correcta")    
+            console.log("Opción incorrecta. Seleccione una opción correcta")    
             break;
     }    
 }
@@ -135,7 +135,7 @@ function ValidarSeleccionCuotas() {
             recargo = recH12cuotas
             break;
         default:
-            console.log("Opción incorrecta. Seleccione un medio de pago correcto")    
+            console.log("Opción incorrecta. Seleccione una opción correcta")    
             break;
     }    
 }
